@@ -9,49 +9,51 @@
   </head>
   <body>
     <div class="main">
-      <aside>
-        <ul>
-          <li>
-            <i class="fa-solid fa-magnifying-glass"></i>
-          </li>
-          <li>
-            <i class="fa-solid fa-house"></i>
-          </li>
-          <li>
-            <i class="fa-solid fa-users"></i>
-          </li>
-          <li>
-            <i class="fa-solid fa-bookmark"></i>
-          </li>
-          <li>
-            <i class="fa-solid fa-tv"></i>
-          </li>
-          <li>
-            <i class="fa-solid fa-cart-shopping"></i>
-          </li>
-        </ul>
-      </aside>
+      <div class="movie-card">
+        <button class="close">back</button>
+      </div>
       <div class="container">
         <nav>
-          <h1>flakes</h1>
+          <h1>movies</h1>
           <div class="links">
             <a href="#">home</a>
-            <a href="#">movies</a>
-            <a href="#">series</a>
-            <a href="#">popular</a>
-            <a href="#">trends</a>
+            <a href="#now-playing">now playing</a>
+            <a href="#popular">popular</a>
+            <a href="#upcoming">upcoming</a>
           </div>
           <div class="profile">
-            <img
-              src="imgs/christopher-campbell-rDEOVtE7vOs-unsplash (1).jpg"
-              alt=""
-            />
             <div class="darkmode">
               <i class="fa-solid fa-sun"></i>
-              <i class="fa-solid fa-moon"></i>
+              <!-- <i class="fa-solid fa-moon"></i> -->
             </div>
           </div>
         </nav>
+        <div class="first">
+          <i class="fa-solid fa-caret-left"></i>
+          <div class="movies"></div>
+          <i class="fa-solid fa-caret-right"></i>
+        </div>
+        <div id="now-playing" class="now-playing">
+          <h1>now playing</h1>
+          <div class="now-playing-movies">
+            <i class="fa-solid fa-caret-left"></i>
+            <i class="fa-solid fa-caret-right"></i>
+          </div>
+        </div>
+        <div id="popular" class="popular">
+          <h1>popular movies</h1>
+          <div class="popular-movies">
+            <i class="fa-solid fa-caret-left"></i>
+            <i class="fa-solid fa-caret-right"></i>
+          </div>
+        </div>
+        <div id="upcoming" class="upcoming">
+          <h1>upcoming movies</h1>
+          <div class="upcoming-movies">
+            <i class="fa-solid fa-caret-left"></i>
+            <i class="fa-solid fa-caret-right"></i>
+          </div>
+        </div>
       </div>
     </div>
     <!-- font awosemoe -->
