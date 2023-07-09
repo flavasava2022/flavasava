@@ -456,7 +456,7 @@ a:hover {
   .now-playing i,
   .popular-movies i,
   .upcoming-movies i {
-    top: 19%;
+    top: 35%;
     font-size: 5rem;
   }
   .now-playing,
@@ -468,15 +468,20 @@ a:hover {
   .upcoming-movies:hover .text {
     height: 70%;
   }
+  .now_playing,
+  .popular_movie,
+  .upcoming_movie {
+    min-width: 28%;
+  }
   .movie-card {
     width: 90%;
     left: 5%;
   }
   .movie-card img {
-    max-width: 40%;
+    max-width: 35%;
     border-radius: 12px;
-    height: 55%;
-    margin-top: 15%;
+    height: 40%;
+    margin-top: 30%;
     margin-bottom: auto;
     margin-left: 1%;
   }
@@ -484,34 +489,36 @@ a:hover {
     font-weight: 500;
     padding: 0px 5px;
     border-radius: 8px;
-    line-height: 1.5;
+    line-height: 1.8;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
     position: relative;
     height: 55%;
-    margin-top: 15%;
+    margin-top: 32%;
     margin-bottom: auto;
-    display: block;
   }
   .movie-card h2 {
     position: absolute;
-    top: -18%;
+    top: -25%;
     width: 170%;
     text-align: center;
     right: 0;
   }
   .movie-card button {
     position: absolute;
-    bottom: -57%;
-    width: 159% !important;
+    bottom: -37%;
+    width: 150% !important;
     right: 5%;
   }
   .movie-card p:first-of-type {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -41%;
     width: unset;
-    line-height: 1.6;
+    line-height: 1.3;
   }
   .movie-card p:not(:first-of-type) {
     display: flex;
@@ -524,15 +531,15 @@ a:hover {
     color: green;
   }
   .movie-card p:nth-of-type(2) {
-    bottom: -15%;
+    bottom: 10%;
   }
   .movie-card p:nth-of-type(3) {
-    bottom: -25%;
+    bottom: 0%;
   }
   .movie-card p:nth-of-type(4) {
-    bottom: -35%;
+    bottom: -10%;
   }
   .movie-card p:nth-of-type(5) {
-    bottom: -45%;
+    bottom: -20%;
   }
 }
