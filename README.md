@@ -4,8 +4,8 @@
 - Convert the provided [Dashboard Design](https://elzero.org/html-css-practice-template-four/) into a website using only HTML and CSS and try to make a simple CSS Framework.
 
 ### Screenshots
-![Elzero Dashboard | Dashboard](https://github.com/flavasava2022/movies-website/blob/main/resources/Untitled-mobile.png(HighRes%20Screenshot).png)
-![Elzero Dashboard | Settings](https://github.com/mouatezbenariba/template-html-css-04/blob/main/images/mouatezbenariba.github.io_template-html-css-04_html_settings.html(HighRes%20Screenshot).png)
+![Desktop-version](https://github.com/flavasava2022/movies-website/blob/main/resources/screencapture-127-0-0-1-5500-index-html-2023-07-10-02_14_54.png
+![Desktop-version](https://github.com/flavasava2022/movies-website/blob/main/resources/Untitled-mobile.png
 ![Elzero Dashboard | Profile](https://github.com/mouatezbenariba/template-html-css-04/blob/main/images/mouatezbenariba.github.io_template-html-css-04_html_profile.html(HighRes%20Screenshot).png)
 ![Elzero Dashboard | Projects](https://github.com/mouatezbenariba/template-html-css-04/blob/main/images/mouatezbenariba.github.io_template-html-css-04_html_projects.html(HighRes%20Screenshot).png)
 ![Elzero Dashboard | Courses](https://github.com/mouatezbenariba/template-html-css-04/blob/main/images/mouatezbenariba.github.io_template-html-css-04_html_courses.html(HighRes%20Screenshot).png)
