@@ -1,12 +1,12 @@
 # [Movies Website With Api Database Movies].
 
-- Live Site URL: [[Movies Website](https://flavasava2022.github.io/DashBoard/](https://flavasava2022.github.io/movies-website/))
+- Live Site URL: [Movies Website](https://flavasava2022.github.io/DashBoard/](https://flavasava2022.github.io/movies-website/)
 
 ### Screenshots
 ![Desktop-version](https://github.com/flavasava2022/movies-website/blob/main/resources/screencapture-127-0-0-1-5500-index-html-2023-07-10-02_14_54.png)
 ![Desktop-version](https://github.com/flavasava2022/movies-website/blob/main/resources/Untitled.png)
 ![Mobile-version](https://github.com/flavasava2022/movies-website/blob/main/resources/screencapture-127-0-0-1-5500-index-html-2023-07-10-02_16_12.png)
-![Mobile-version](https://github.com/flavasava2022/movies-website/blob/main/resources/Untitled-mobile.png)
+
 
 
 
