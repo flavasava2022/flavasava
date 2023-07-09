@@ -4,10 +4,7 @@
 
 ### Screenshots
 ![Desktop-version](https://github.com/flavasava2022/movies-website/blob/main/resources/screencapture-127-0-0-1-5500-index-html-2023-07-10-02_14_54.png)
-![Desktop-version](https://github.com/flavasava2022/movies-website/blob/main/resources/Untitled.png)
 ![Destop-version-DarkMode](https://github.com/flavasava2022/movies-website/blob/main/resources/screencapture-127-0-0-1-5500-index-html-2023-07-10-02_37_17.png)
-
-
 
 
 ### Built with
